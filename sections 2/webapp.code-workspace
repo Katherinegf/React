@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../../static-webapp"
+		},
+		{
+			"path": "../../../../Fixxo/CSS/images"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "static-webapp"
+	}
+}
